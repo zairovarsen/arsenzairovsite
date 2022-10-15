@@ -5,7 +5,7 @@ export default function Gear() {
           My Gear
         </h1>
         <p className="text-gray-700 dark:text-gray-300 mt-2 mb-8">
-          Here's what tech I'm currently using for coding, videos.
+          Here's what tech I'm currently using for coding.
           Most of these have been accumulated over the past few years.
         </p>
 
